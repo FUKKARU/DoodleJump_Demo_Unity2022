@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "DoodleJump_Demo.sln"
+    "dotnet.defaultSolution": "DoodleJump_Demo_Unity2022.sln"
 }
